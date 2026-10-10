@@ -1,0 +1,23 @@
+{
+  "art": "karussell",
+  "thema": "Datenschutz ist kein Blocker: Claude im Büro",
+  "produktbezug": true,
+  "modul": "claude",
+  "beschreibung": "„Claude klaut unsere Firmendaten.“ Hören wir in fast jedem Erstgespräch.\n\nIm Business-Tarif trainiert Anthropic nicht mit euren Daten, das steht so in den Vertragsbedingungen. Das größere Risiko sitzt woanders: bei Leuten, die heimlich private Konten nutzen. Wie es sauber geht, zeigen die Slides.\n\n#KIimBüro #Datenschutz #DSGVO #ClaudeAI.\n\nWir bauen bei Baubotters Claude in die Abläufe von Unternehmen ein: baubotters.com",
+  "medien": [
+    "https://raw.githubusercontent.com/danninobs-coder/baubotters-medien/a2da9727e325c922525ed41afe4c961c42ebc045/instagram/2026-10-datenschutz/slide1.jpg",
+    "https://raw.githubusercontent.com/danninobs-coder/baubotters-medien/a2da9727e325c922525ed41afe4c961c42ebc045/instagram/2026-10-datenschutz/slide2.jpg",
+    "https://raw.githubusercontent.com/danninobs-coder/baubotters-medien/a2da9727e325c922525ed41afe4c961c42ebc045/instagram/2026-10-datenschutz/slide3.jpg",
+    "https://raw.githubusercontent.com/danninobs-coder/baubotters-medien/a2da9727e325c922525ed41afe4c961c42ebc045/instagram/2026-10-datenschutz/slide4.jpg",
+    "https://raw.githubusercontent.com/danninobs-coder/baubotters-medien/a2da9727e325c922525ed41afe4c961c42ebc045/instagram/2026-10-datenschutz/slide5.jpg",
+    "https://raw.githubusercontent.com/danninobs-coder/baubotters-medien/a2da9727e325c922525ed41afe4c961c42ebc045/instagram/2026-10-datenschutz/slide6.jpg"
+  ],
+  "alt_texte": [
+    "Dunkelblaue Folie mit goldenem Anführungszeichen und dem Satz: Claude klaut unsere Daten. Darunter: Hören wir in fast jedem Erstgespräch. Stimmt nur nicht.",
+    "Folie mit dem Satz: Im Business-Tarif trainiert niemand mit euren Daten. Darunter die Vertragsbedingungen, ISO 27001, SOC 2 und der Vertrag zur Auftragsverarbeitung.",
+    "Folie mit dem Satz: Gefährlich wird es erst, wenn ihr KI verbietet. Darunter: Dann nutzt das Team private Konten, ohne Vertrag und ohne Regeln.",
+    "Folie mit dem Satz: Cowork arbeitet direkt in euren Ordnern mit. Darunter Beispiele für Berichte und Tabellen.",
+    "Folie mit dem Satz: Copilot kostet extra. Jeden Monat, für jeden Nutzer.",
+    "Folie mit dem Satz: Mehr braucht es nicht. Darunter vier Punkte: Business-Tarif, Vertrag zur Auftragsverarbeitung, eine Seite Regeln, eine kurze Einführung."
+  ]
+}
